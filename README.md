@@ -1,5 +1,5 @@
 ## Overview
 ## Data Preprocessing
-## Exploring data
-## Changes in house prices in Denver
-## Characteristics of houses that increase in price
+## Exploring Data
+## Changes in House Prices
+## Characteristics of Houses that Increase in Price
